@@ -3,6 +3,11 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "MIIVsem"]
+	path = MIIVsem
+	url = https://github.com/zackfisher/miivsem
+	shallow = true
+	registered = true
 [submodule "robumeta"]
 	path = robumeta
 	url = https://github.com/zackfisher/robumeta
