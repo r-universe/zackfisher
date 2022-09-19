@@ -1,9 +1,5 @@
 [
   {
-    "package": "MIIVsem",
-    "oncran": true
-  },
-  {
     "package": "robumeta",
     "oncran": true
   }
