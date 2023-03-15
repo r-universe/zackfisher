@@ -8,6 +8,11 @@
 	url = https://github.com/zackfisher/miivsem
 	shallow = true
 	registered = true
+[submodule "multivar"]
+	path = multivar
+	url = https://github.com/zackfisher/multivar
+	shallow = true
+	registered = true
 [submodule "robumeta"]
 	path = robumeta
 	url = https://github.com/zackfisher/robumeta
