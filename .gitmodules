@@ -5,6 +5,9 @@
 [submodule "MIIVsem"]
 	path = MIIVsem
 	url = https://github.com/zackfisher/miivsem
+[submodule "multivar"]
+	path = multivar
+	url = https://github.com/cran/multivar
 [submodule "robumeta"]
 	path = robumeta
 	url = https://github.com/zackfisher/robumeta
